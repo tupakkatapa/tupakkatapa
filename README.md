@@ -1,5 +1,3 @@
-<h3 align="center">Jesse's GitHub Stats</h3>
-
 <table align="center">
   <tr>
     <td>
